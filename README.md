@@ -1,24 +1,10 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+<h1>메킨지1-blog</h1>
+<h2>구현의도</h2>
+<p>멋사과제로 나온 메킨지 따라해보기 처음에 강의만 보면 되는건줄알고 매우 만만하게 따라만 하면 되는거지? 라고 생각했다가 1번만 7시간이 걸려버렸다... 
+<br>하고자 했던 것은 매킨지씨가 시키는대로 잘해보자 이거하나 갖고 했던 것 같습니다 </p>
+<h2>오류내용 + 해결방법</h2>
+<p> 1. routes 오류 아무리해도 자꾸 routes오류가 떠서 뭐가 문제인지 모르겠었는데 다혜가 발견해주었다 resources에서 s를 빼먹고 써서 진행이 안되었던것 오타를 조심하자! <br>
+2. 아무래도 모델설정을 잘못했던 것 같은데 분명 comment를 모델로 생성했는데 인식이 안됐었다. 뭐가 문제인가 싶어 model 삭제했다가 만들어놨던 모든게 오류가 나서 진심 울뻔했다.. 현진이한테 물어봐서 저장해 두었던 커밋을 통해 겨우겨우 살아났다 뭐가 문제였는지는 미스테리.. 다시하니깐 잘만된 경우였다 <br>
+3. 아직 잘 모르겠는 부분인데 사진 사이즈가  무슨사진을 넣던 css통해서 줄어드는게 맞는게 아닌가..? 메킨지가 쓰는 로고 말고는 다른게 사이즈 조절이 안돼서 결국 똑같은 걸로 사용했습니다.</p>
+<h2>간단한 소감</h2>
+<p>아진짜로... 너무 쉽게 생각했어요.. 오늘 하루면 충분할지 알았는데 오류 투성이네요... 너무 힘들다 정말 그래도 메킨지 추천하는 이유는 알 것 같아요. 그 동안 배웠던 것들을 한번에 몰아서 하면서 뭔가 정리가 되는 느낌? 앞으로 남은거 두번 더하면 진짜 자신감 생길것 같아요!!</p>
