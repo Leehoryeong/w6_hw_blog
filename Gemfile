@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'devise', '~> 3.3.0'
 gem 'rails_db'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.0.6'
@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'mongoid', '~> 4.0.0'
